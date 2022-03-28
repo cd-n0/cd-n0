@@ -4,9 +4,6 @@ Amateur artist and developer
 Somewhat great of an editor
 
 You can reach me by sending me an e-mail
-
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **ManualBreathing/ManualBreathing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
