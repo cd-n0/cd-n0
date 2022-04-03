@@ -1,11 +1,8 @@
 ### WEWOWEEEWEWOEWO
-I’m currently learning C/C++ and Java
-
-Amateur artist and developer
-
-Somewhat great of an editor
-
-You can reach me by sending me an e-mail
+I’m currently learning C/C++ and Java  
+Amateur artist and developer  
+Somewhat great of an editor  
+You can reach me by sending me an e-mail  
 <!--
 **ManualBreathing/ManualBreathing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
