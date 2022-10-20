@@ -1,5 +1,5 @@
 ### WEWOWEEEWEWOEWO
-~~I’m currently learning C/C++ and Java~~  maybe later got more important stuff to do  
+I’m currently learning Rust and Java  
 Amateur artist and developer  
 Somewhat great of an editor  
 You can reach me by sending me an e-mail  
