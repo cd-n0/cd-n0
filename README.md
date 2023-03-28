@@ -1,8 +1,10 @@
 ### WEWOWEEEWEWOEWO
-I’m currently learning C++ and Java  
+I’m currently learning C++ and writing minecraft mods in Java  
 Amateur artist and developer  
 Somewhat great of an editor  
-You can reach me by sending me an e-mail  
+You can reach me by sending me an e-mail
+
+**If you need a script, mod, or a tool I wrote, and want me to upload it here, notify me about it. I would probably upload it in the same week of you asking, if I'm not busy.**
 <!--
 **ManualBreathing/ManualBreathing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
