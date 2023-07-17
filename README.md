@@ -4,7 +4,9 @@ Amateur artist and developer
 Somewhat great of an editor  
 You can reach me by sending me an e-mail
 
-**If you need a script, mod, or a tool I wrote, and want me to upload it here, notify me about it. I would probably upload it in the same week of you asking, if I'm not busy.**
+**If you need a script, mod, or a tool I wrote, and want me to upload it here, notify me about it. I would probably upload it in the same week of you asking, if I'm not busy.**  
+
+![XD](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-n0&theme=transparent)
 <!--
 **ManualBreathing/ManualBreathing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
