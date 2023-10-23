@@ -1,5 +1,5 @@
 ### What's up
-- I’m currently learning TypeScript and Rust, relearning C/C++ and Java, and also writing Minecraft utility mods in Java.
+- I’m currently learning C++ and Rust, and ~~writing~~ trying to write an OS with x86 asm + C.
 - Amateur artist and developer
 - Somewhat great of a video editor
 - You can reach me by sending me an e-mail
