@@ -1,11 +1,4 @@
-### What's up
-- I’m currently trying to write an operating system with x86 asm + C.
-- Amateur artist
-- Somewhat great of a video editor
-- You can reach me by sending me an e-mail
-
-A lot of my older stuff have been privated since I first started this thing as a hobby, and saw flaws in a lot of stuff that I wrote prior to taking it seriously. A lot of the scripts are rewritten, but some stuff like the Minecraft utility mod, terminal programs, and older OpenGL projects are still getting rewritten. If you are interested in collaborating send me and e-mail.
-
+You're probably here for [this](https://gist.github.com/cd-n0/1fcc3902edaf4188487d57cb4464f323), or [this](https://github.com/cd-n0/RebuiltSimon).  
 **If you need a script, mod, or a tool I wrote, and want me to upload it here, notify me about it. I would probably upload it in the same week of you asking, if I'm not busy.**  
 
 ![XD](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-n0&theme=transparent)
